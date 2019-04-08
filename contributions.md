@@ -20,6 +20,6 @@ Replace the first row with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description | 
 |---|:---|:---|:---| 
-|  2   | link to my contribution    | course website    |   I fixed a broken link.    |
+|  8   | https://github.com/nyu-ossd-s19/wiki/wiki/OSSD---participants    | wiki site    |   I fixed a broken link on Carly Abraham's blog.    |
 |     |     |     |      |
 |     |     |     |      |
